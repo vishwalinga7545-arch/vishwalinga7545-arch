@@ -13,13 +13,13 @@
 
 ## 🧭 About Me
 
-SEO professional turned AI builder with **7+ years driving measurable organic growth across high-traffic B2B, B2C, and D2C platforms.**
+AI Engineer with a strong foundation in search and growth systems, bringing **7+ years of experience driving measurable organic growth across high-traffic B2B, B2C, and D2C platforms.**
 
-I transitioned from SEO into the AI space to focus on building **production-ready LLM applications, RAG pipelines, and agentic workflows** that solve real business problems at scale.
+I transitioned from SEO into the AI space to focus on building **production-ready LLM applications, scalable RAG pipelines, and agentic workflows** that solve real-world business problems.
 
-I specialize in **AI-Powered SEO, AEO, and GEO**.
+I bring a unique edge in **AI-Powered SEO, AEO, and GEO**, combining deep search intelligence with modern generative AI engineering.
 
-**Focus:** Combining search intelligence thinking with modern generative AI engineering.
+**Focus:** Designing reliable, scalable AI systems that enhance discovery, automation, and decision-making.
 
 ---
 
