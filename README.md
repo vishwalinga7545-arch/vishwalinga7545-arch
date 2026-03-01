@@ -45,6 +45,35 @@ I bring a unique edge in **AI-Powered SEO, AEO, and GEO**, combining deep search
 
 ## 🧰 Tech Stack
 
+## 🧰 Tech Toolbox
+
+### 🤖 AI / LLM
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-000000?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-6E40C9?style=for-the-badge)
+
+---
+
+### ☁️ Data & Cloud
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+### 🗄️ Vector & Data
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-FF4B4B?style=for-the-badge)
+
+---
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
+
 **AI & Engineering**  
 Python • LangChain • Hugging Face • OpenAI GPT • LangGraph • CrewAI • AutoGen • Prompt Engineering • RAG  
 
