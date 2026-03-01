@@ -67,8 +67,6 @@ Technical SEO • AEO • GEO • Semrush • Ahrefs • GTM • GSC • UI/UX �
 🔹 **Marketing Strategy AI Copilot**  
 Agentic, memory-driven multi-LLM marketing assistant  
 
-> 🚨 *Next upgrade:* Add 2 more strong AI repos for maximum recruiter impact
-
 ---
 
 ## 🎯 Current Focus
