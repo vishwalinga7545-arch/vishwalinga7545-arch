@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vishwa</h1>
-<h3 align="center">AI-Powered SEO | Generative AI Builder | Search Intelligence Specialist</h3>
+<h3 align="center">AI Engineer | Generative AI Builder | AI SEO Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+SEO+Strategist;RAG+Pipeline+Builder;Agentic+AI+Developer;Technical+SEO+Expert;Future-Ready+Search+Builder&center=true&width=500&height=45">
@@ -13,7 +13,7 @@
 
 ## 🧭 About Me
 
- 7+ years driving organic growth for high-traffic B2B, B2C, D2C platforms
+SEO professional turned AI builder with **7+ years driving measurable organic growth across high-traffic B2B, B2C, and D2C platforms.**
 
 I specialize in **AI-Powered SEO, AEO, and GEO**, and build production-ready:
 
@@ -28,9 +28,9 @@ I specialize in **AI-Powered SEO, AEO, and GEO**, and build production-ready:
 
 ## ⚡ Impact
 
-- Scaled organic visibility for fintech platforms  
+- Scaled organic visibility for  B2B, B2C, and D2C platforms  
 - Automated SEO workflows using AI  
-- Built retrieval systems for knowledge discovery  
+- Built retrieval systems for enterprise knowledge discovery  
 - Improved UX and revenue through technical SEO  
 - Designed agentic workflows for marketing intelligence  
 
@@ -39,20 +39,35 @@ I specialize in **AI-Powered SEO, AEO, and GEO**, and build production-ready:
 ## 🧰 Tech Stack
 
 **AI & Engineering**  
-Python • LangChain • LangGraph • CrewAI • Autogen • Prompt Engineering • RAG
+Python • LangChain • Hugging Face • OpenAI GPT • LangGraph • CrewAI • AutoGen • Prompt Engineering • RAG  
 
 **Cloud & Data**  
-Azure • GCP • SQL • GA4 • Looker Studio
+Azure OpenAI • Google Cloud (Vertex AI) • SQL • GA4 • Looker Studio  
 
 **Search & Growth**  
-Technical SEO • AEO • GEO • Semrush • Ahrefs • GTM • GA4 • GSC • UI & UX • WordPress
+Technical SEO • AEO • GEO • Semrush • Ahrefs • GTM • GSC • UI/UX • WordPress  
+
+---
+
+## 🤖 AI / ML / Generative AI
+
+- Built LLM-powered enterprise applications and scalable RAG pipelines using OpenAI GPT, Google Gemini, Hugging Face, LangChain, LangGraph, AutoGen, and CrewAI  
+- Designed multi-provider LLM architectures with fallback routing, prompt optimization, and cost-performance tuning  
+- Deployed and orchestrated AI workloads on Google Cloud (Vertex AI), Azure OpenAI, and AWS  
+- Implemented vector search and multimodal retrieval using FAISS, Chroma, Elasticsearch, and OpenSearch  
+- Developed evaluation pipelines, benchmarking frameworks, and safety guardrails for reliable production systems  
+- Engineered agentic AI workflows for real-world business automation and decision intelligence  
+- Built end-to-end ingestion, chunking, embedding, and retrieval pipelines for enterprise knowledge systems  
+- Optimized latency, token usage, and retrieval accuracy for high-scale AI applications  
 
 ---
 
 ## 📌 Featured Projects
 
 🔹 **Marketing Strategy AI Copilot**  
-  Agentic, memory-driven multi-LLM marketing assistant
+Agentic, memory-driven multi-LLM marketing assistant  
+
+> 🚨 *Next upgrade:* Add 2 more strong AI repos for maximum recruiter impact
 
 ---
 
@@ -67,7 +82,11 @@ Technical SEO • AEO • GEO • Semrush • Ahrefs • GTM • GA4 • GSC •
 
 ## 🤝 Connect
 
-📩 Contact: vishwalingam.dharmalingam@gmail.com
+📩 **Email:** vishwalingam.dharmalingam@gmail.com  
 💬 Open to collaborations in **AI + Search Intelligence + Automation**
 
 ---
+
+<p align="center">
+  <i>Designing the future of search with AI.</i>
+</p>
