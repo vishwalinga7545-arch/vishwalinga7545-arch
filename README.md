@@ -67,7 +67,7 @@ I bring a unique edge in **AI-Powered SEO, AEO, and GEO**, combining deep search
 
 ---
 
-### 🔍 Search & Growth (Differentiator)
+### 🔍 Search & Growth
 ![Technical SEO](https://img.shields.io/badge/Technical_SEO-0A66C2?style=for-the-badge)
 ![AEO](https://img.shields.io/badge/AEO-Answer_Engine-1f6feb?style=for-the-badge)
 ![GEO](https://img.shields.io/badge/GEO-Generative_Search-8A2BE2?style=for-the-badge)
