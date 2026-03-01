@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=vishwalinga7545-arch&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vishwa</h1>
+<h1 align="center">Hi 👋, I'm Vishwalingam Dharmalingam</h1>
 <h3 align="center">AI Engineer | Generative AI Builder | AI SEO Specialist</h3>
 
 <p align="center">
@@ -29,7 +29,7 @@ I specialize in **AI-Powered SEO, AEO, and GEO**, and build production-ready:
 ## ⚡ Impact
 
 - Scaled organic visibility for  B2B, B2C, and D2C platforms  
-- Automated SEO workflows using AI  
+- Automated workflows using AI  
 - Built retrieval systems for enterprise knowledge discovery  
 - Improved UX and revenue through technical SEO  
 - Designed agentic workflows for marketing intelligence  
