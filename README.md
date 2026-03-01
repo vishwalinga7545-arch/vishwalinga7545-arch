@@ -15,24 +15,31 @@
 
 SEO professional turned AI builder with **7+ years driving measurable organic growth across high-traffic B2B, B2C, and D2C platforms.**
 
-I specialize in **AI-Powered SEO, AEO, and GEO**, and build production-ready:
+I transitioned from SEO into the AI space to focus on building **production-ready LLM applications, RAG pipelines, and agentic workflows** that solve real business problems at scale.
 
-- LLM applications  
-- RAG pipelines  
-- Agentic AI workflows  
-- SEO automation systems  
+I specialize in **AI-Powered SEO, AEO, and GEO**.
 
-**Focus:** Bridging Search Intelligence × Generative AI Engineering.
+**Focus:** Combining search intelligence thinking with modern generative AI engineering.
 
 ---
 
-## ⚡ Impact
+## ⚡ What I Build
+
+- 🤖 LLM-powered enterprise applications  
+- 🧩 Scalable RAG pipelines  
+- 🔄 Agentic AI workflows  
+- 🧠 Multi-provider LLM orchestration  
+- 📊 AI-driven automation systems  
+- 🔎 Intelligent retrieval and search systems  
+
+---
+
+## 🚀 Impact
 
 - Scaled organic visibility for  B2B, B2C, and D2C platforms  
 - Automated workflows using AI  
 - Built retrieval systems for enterprise knowledge discovery  
 - Improved UX and revenue through technical SEO  
-- Designed agentic workflows for marketing intelligence  
 
 ---
 
@@ -71,10 +78,10 @@ Agentic, memory-driven multi-LLM marketing assistant
 
 ## 🎯 Current Focus
 
-- Building AI-native SEO systems  
-- Advancing in agentic architectures  
-- Search × LLM experimentation  
-- Future-ready discovery strategies  
+- Production LLM systems  
+- Agentic architectures  
+- Scalable RAG frameworks  
+- Applied AI for real-world automation
 
 ---
 
@@ -86,5 +93,5 @@ Agentic, memory-driven multi-LLM marketing assistant
 ---
 
 <p align="center">
-  <i>Designing the future of search with AI.</i>
+  <i>Building production AI systems that scale.</i>
 </p>
