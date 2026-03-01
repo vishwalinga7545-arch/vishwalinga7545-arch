@@ -67,6 +67,7 @@ Technical SEO • AEO • GEO • Semrush • Ahrefs • GTM • GA4 • GSC •
 
 ## 🤝 Connect
 
+📩 Contact: vishwalingam.dharmalingam@gmail.com
 💬 Open to collaborations in **AI + Search Intelligence + Automation**
 
 ---
