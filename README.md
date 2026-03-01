@@ -76,7 +76,6 @@ I bring a unique edge in **AI-Powered SEO, AEO, and GEO**, combining deep search
 ![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge)
 ![GSC](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4088?style=for-the-badge)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
 
 ---
 
