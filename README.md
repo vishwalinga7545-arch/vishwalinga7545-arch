@@ -47,32 +47,38 @@ I bring a unique edge in **AI-Powered SEO, AEO, and GEO**, combining deep search
 
 ## 🧰 Tech Toolbox
 
-### 🤖 AI / LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-000000?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+### 🤖 AI & Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge)
-![AutoGen](https://img.shields.io/badge/AutoGen-6E40C9?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-6E40C9?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-412991?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF4B4B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-blue?style=for-the-badge)
 
 ---
 
-### ☁️ Data & Cloud
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
-
-### 🗄️ Vector & Data
-![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
-![Chroma](https://img.shields.io/badge/Chroma-FF4B4B?style=for-the-badge)
-
----
-
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### ☁️ Cloud & Data
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+---
+
+### 🔍 Search & Growth (Differentiator)
+![Technical SEO](https://img.shields.io/badge/Technical_SEO-0A66C2?style=for-the-badge)
+![AEO](https://img.shields.io/badge/AEO-Answer_Engine-1f6feb?style=for-the-badge)
+![GEO](https://img.shields.io/badge/GEO-Generative_Search-8A2BE2?style=for-the-badge)
+![Semrush](https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge)
+![Ahrefs](https://img.shields.io/badge/Ahrefs-FF9900?style=for-the-badge)
+![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge)
+![GSC](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4088?style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 **AI & Engineering**  
 Python • LangChain • Hugging Face • OpenAI GPT • LangGraph • CrewAI • AutoGen • Prompt Engineering • RAG  
