@@ -11,15 +11,7 @@
 
 ---
 
-## About Me
-
-🔹 7+ years driving organic growth for high-traffic B2B, B2C, D2C platforms  
-🔹 Specialist in AI-Powered SEO, AEO & GEO  
-🔹 Builder of LLM apps, RAG pipelines & agentic workflows  
-🔹 Strong bridge between Search Intelligence + Generative AI Engineering  
-
-
-## 🧭 About
+## 🧭 About Me
 
  7+ years driving organic growth for high-traffic B2B, B2C, D2C platforms
 
