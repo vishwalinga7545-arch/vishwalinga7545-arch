@@ -39,28 +39,20 @@ I specialize in **AI-Powered SEO, AEO, and GEO**, and build production-ready:
 ## 🧰 Tech Stack
 
 **AI & Engineering**  
-Python • LangChain • LangGraph • CrewAI • Prompt Engineering • RAG
+Python • LangChain • LangGraph • CrewAI • Autogen • Prompt Engineering • RAG
 
 **Cloud & Data**  
 Azure • GCP • SQL • GA4 • Looker Studio
 
 **Search & Growth**  
-Technical SEO • AEO • GEO • Semrush • Ahrefs • GTM • WordPress
+Technical SEO • AEO • GEO • Semrush • Ahrefs • GTM • GA4 • GSC • UI & UX • WordPress
 
 ---
 
 ## 📌 Featured Projects
 
-- 🔹 **Marketing Strategy AI Copilot**  
+🔹 **Marketing Strategy AI Copilot**  
   Agentic, memory-driven multi-LLM marketing assistant
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishwalinga7545-arch&show_icons=true&theme=tokyonight"/>
-</p>
 
 ---
 
