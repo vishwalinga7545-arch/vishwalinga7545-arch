@@ -47,9 +47,6 @@ Technical SEO • AEO • GEO • Semrush • Ahrefs • GTM • Analytics • W
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwalinga7545-arch&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwalinga7545-arch&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -64,5 +61,3 @@ Technical SEO • AEO • GEO • Semrush • Ahrefs • GTM • Analytics • W
 
 <p align="center">⭐ If you like my work, consider following!</p>
 
-
-Add profile README
