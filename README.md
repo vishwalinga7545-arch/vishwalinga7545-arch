@@ -45,8 +45,6 @@ I bring a unique edge in **AI-Powered SEO, AEO, and GEO**, combining deep search
 
 ## 🧰 Tech Stack
 
-## 🧰 Tech Toolbox
-
 ### 🤖 AI & Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
@@ -78,16 +76,7 @@ I bring a unique edge in **AI-Powered SEO, AEO, and GEO**, combining deep search
 ![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge)
 ![GSC](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4088?style=for-the-badge)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-**AI & Engineering**  
-Python • LangChain • Hugging Face • OpenAI GPT • LangGraph • CrewAI • AutoGen • Prompt Engineering • RAG  
-
-**Cloud & Data**  
-Azure OpenAI • Google Cloud (Vertex AI) • SQL • GA4 • Looker Studio  
-
-**Search & Growth**  
-Technical SEO • AEO • GEO • Semrush • Ahrefs • GTM • GSC • UI/UX • WordPress  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
 
 ---
 
