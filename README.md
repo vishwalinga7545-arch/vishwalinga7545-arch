@@ -6,7 +6,7 @@
 <h3 align="center">AI Engineer | Generative AI Builder | AI SEO Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+SEO+Strategist;RAG+Pipeline+Builder;Agentic+AI+Developer;Technical+SEO+Expert;AI-Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+SEO+Strategist;RAG+Pipeline+Builder;Agentic+AI+Developer;AI-Engineer;Automation+Specialist;Prompt+Engineering;Technical+SEO+Expert&center=true&width=500&height=45">
 </p>
 
 ---
