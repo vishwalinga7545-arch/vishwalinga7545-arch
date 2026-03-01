@@ -25,12 +25,12 @@ I bring a unique edge in **AI-Powered SEO, AEO, and GEO**, combining deep search
 
 ## ⚡ What I Build
 
-- 🤖 LLM-powered enterprise applications  
-- 🧩 Scalable RAG pipelines  
-- 🔄 Agentic AI workflows  
-- 🧠 Multi-provider LLM orchestration  
-- 📊 AI-driven automation systems  
-- 🔎 Intelligent retrieval and search systems  
+- LLM-powered enterprise applications  
+- Scalable RAG pipelines  
+- Agentic AI workflows  
+- Multi-provider LLM orchestration  
+- AI-driven automation systems  
+- Intelligent retrieval and search systems  
 
 ---
 
