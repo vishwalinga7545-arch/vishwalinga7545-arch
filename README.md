@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vishwalingam Dharmalingam</h1>
-<h3 align="center">Python Developer| AI Engineer | AI Solutions Engineer | AI SEO Specialist</h3>
+<h3 align="center">Python Developer | AI Engineer | AI Solutions Engineer | AI SEO Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+SEO+Strategist;RAG+Pipeline+Builder;Agentic+AI+Developer;AI-Engineer;Automation+Specialist;Prompt+Engineering;Technical+SEO+Expert&center=true&width=500&height=45">
