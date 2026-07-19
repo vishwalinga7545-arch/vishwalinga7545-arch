@@ -13,7 +13,7 @@
 
 ## 🧭 About Me
 
-AI Engineer with a strong foundation in search and growth systems, bringing **7+ years of experience driving measurable organic growth across high-traffic B2B, B2C, and D2C platforms.**
+AI Engineer with a strong foundation in Python and search systems, bringing **7+ years of experience driving measurable organic growth across high-traffic B2B, B2C, and D2C platforms.**
 
 I transitioned from SEO into the AI space to focus on building **production-ready LLM applications, scalable RAG pipelines, and agentic workflows** that solve real-world business problems.
 
